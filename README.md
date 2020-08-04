@@ -26,21 +26,21 @@
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span><b>SASS</b></span><br><br><br>
+      <td width="25%" align="center" style="padding-bottom: 30px">
+        <span><b>SASS</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
-      <td width="25%" align="center">
-        <span><b>Javascript</b></span><br><br><br>
+      <td width="20%" align="center">
+        <span><b>Javascript</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="25%" align="center">
-        <span><b>Git</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      <td width="20%" align="center">
+        <span><b>Vue</b></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>PhpStorm</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/phpstorm.svg">
+        <span><b>Git</b></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
     </tr>
   </tbody>
