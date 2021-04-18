@@ -16,10 +16,10 @@
 </p>
 
 ### Contacts
-- Email: <a href="mailto:arifin@poteto.dev">arifin@poteto.dev</a>
+- Email: <a href="mailto:arifin@poteto.dev">arifin.izzah15@gmail.com</a>
 - Facebook: <a href="https://www.facebook.com/arifinizz/">https://www.facebook.com/arifinizz/</a>
-- Instagram: <a href="https://www.instagram.com/arifin_izz/">https://www.instagram.com/arifin_izz/</a>
-- Telegram: <a href="https://t.me/arifin_izz">https://t.me/arifin_izz</a>
+- Instagram: <a href="https://www.instagram.com/arifin_izz/">https://www.instagram.com/arifineu/</a>
+- Telegram: <a href="https://t.me/arifin_izz">https://t.me/arifineu</a>
 
 <!-- ### What I Use 
 
