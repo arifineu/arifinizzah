@@ -21,7 +21,7 @@
 - Instagram: <a href="https://www.instagram.com/arifin_izz/">https://www.instagram.com/arifin_izz/</a>
 - Telegram: <a href="https://t.me/arifin_izz">https://t.me/arifin_izz</a>
 
-### What I Use 
+<!-- ### What I Use 
 
 <table>
   <tbody>
@@ -50,7 +50,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=arifinizzah&hide_border=false&show_icons=true)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=arifinizzah.arifinizzah)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=arifinizzah.arifinizzah) -->
 
 <!--
 **arifinizzah/arifinizzah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
