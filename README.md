@@ -48,9 +48,9 @@
 
 ### My Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=arifinizzah&hide_border=false&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=arifinizzah&hide_border=false&show_icons=true) -->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=arifinizzah.arifinizzah) -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=arifinizzah.arifinizzah) 
 
 <!--
 **arifinizzah/arifinizzah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
