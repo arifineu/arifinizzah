@@ -21,8 +21,8 @@
 - Instagram: <a href="https://www.instagram.com/arifin_izz/">https://www.instagram.com/arifineu/</a>
 - Telegram: <a href="https://t.me/arifin_izz">https://t.me/arifineu</a>
 
+### Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=arifineu&show_icons=true&theme=chartreuse-dark&count_private=true" />
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifineu&theme=chartreuse-dark&layout=compact" />
 
 <!-- ### What I Use 
