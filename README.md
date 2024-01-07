@@ -1,6 +1,13 @@
-### Hi Everyone!! 👋
+Hi 👋 My name is Arifin Izzah
 
-<p align="center">
+
+Frontend Engineer
+----------------
+* 🌍 From Indonesia
+* ✉️ You can contact me at [arifin.izzah15@gmail.com](mailto:arifin.izzah15@gmail.com)
+* 🤝 I'm open to collaborating on Interesting projects
+
+<!--<p align="center">
   <br>
   <img src="https://media3.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif" width="200px">
   <br><br>
@@ -19,40 +26,32 @@
 - Email: <a href="mailto:arifin@poteto.dev">arifin.izzah15@gmail.com</a>
 - Facebook: <a href="https://www.facebook.com/arifinizz/">https://www.facebook.com/arifinizz/</a>
 - Instagram: <a href="https://www.instagram.com/arifin_izz/">https://www.instagram.com/arifineu/</a>
-- Telegram: <a href="https://t.me/arifin_izz">https://t.me/arifineu</a>
+- Telegram: <a href="https://t.me/arifin_izz">https://t.me/arifineu</a>-->
+
+## Skills
+<p align="left">
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
+  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+</p>
+
+                    
 
 ### Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=arifineu&show_icons=true&theme=chartreuse-dark&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifineu&theme=chartreuse-dark&layout=compact" />
-
-<!-- ### What I Use 
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center" style="padding-bottom: 30px">
-        <span><b>SASS</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>Javascript</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="20%" align="center">
-        <span><b>Vue</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>Git</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-### My Stats
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=arifinizzah&hide_border=false&show_icons=true) -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arifineu&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&show_icons=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifineu&stroke=ffffff&background=171717&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifineu&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&show_icons=truelayout=compact" />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arifinizzah.arifinizzah) 
 
