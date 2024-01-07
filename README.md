@@ -1,5 +1,8 @@
-Hi 👋 My name is Arifin Izzah
+<p align="center">
+  <img src="https://media3.giphy.com/media/ERc5g8ThElMQM/giphy.gif">
+</p>
 
+Hi 👋 My name is Arifin Izzah
 
 Frontend Engineer
 ----------------
