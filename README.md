@@ -8,7 +8,7 @@ Frontend Engineer
 ----------------
 * 🌍 From Indonesia
 * ✉️ You can contact me at [arifin.izzah15@gmail.com](mailto:arifin.izzah15@gmail.com)
-* 🤝 I'm open to collaborating on Interesting projects
+* 🤝 I'm open for collaborating on Interesting projects
 
 <!--<p align="center">
   <br>
