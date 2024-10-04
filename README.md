@@ -52,9 +52,13 @@ Frontend Engineer
                     
 
 ### Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=arifineu&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&show_icons=true" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifineu&stroke=ffffff&background=171717&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifineu&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=171717&hide_border=true&show_icons=truelayout=compact" />
+<p align="left">
+<a href="https://github.com/arifineu">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arifineu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arifineu&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=arifinizzah.arifinizzah) 
 
